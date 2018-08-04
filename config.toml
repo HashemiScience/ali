@@ -56,7 +56,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "dark"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -71,14 +71,14 @@ enableGitInfo = false
   organizations = [ { name = "McMaster University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "bitmoji.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ali.hashemi@gmail.com"
   address = "Psychology Building, 1280 Main Street West, Hamilton, Ontario, Canada"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
   #telegram = ""
-  twitter = "@hashemiali"
+  #twitter = "@hashemiali"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -125,7 +125,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -328,4 +328,4 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [Languages.en]
-  languageCode = "en-us"
+  languageCode = "en-ca"
