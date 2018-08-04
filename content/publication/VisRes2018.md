@@ -1,6 +1,6 @@
 +++
 title = "The role of horizontal facial structure on the N170 and N250"
-date = 2013-07-01T00:00:00
+date = 2018
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -65,9 +65,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/fig1a_allStimuli.png"
-caption = "Figure 1 from paper"
+#[header]
+#image = "headers/fig1a_allStimuli.png"
+#caption = "Figure 1 from paper"
 
 +++
 
