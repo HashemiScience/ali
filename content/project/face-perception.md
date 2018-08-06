@@ -1,15 +1,15 @@
 +++
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2018-08-06T00:00:00
 
 # Project title.
-title = "Perceptual Learning"
+title = "Face perception"
 
 # Project summary to display on homepage.
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "facecomposite.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "facecomposite.jpg"
+caption = ""
 
 +++
 

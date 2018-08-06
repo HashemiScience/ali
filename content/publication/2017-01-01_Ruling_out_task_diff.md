@@ -1,7 +1,7 @@
 +++
 title = "Ruling out task difficulty in the context-generalization of texture perceptual learning"
 date = "2017-01-01"
-authors = ["Alicia Serrano", "Ali Hashemi", "Allison Sekuler", "Patrick Bennett"]
+authors = ["Alicia Serrano", "Ali Hashemi", "Allison B Sekuler", "Patrick J Bennett"]
 publication_types = ["2"]
 publication = "Journal of Vision, (17), 10, _pp. 504--504_"
 publication_short = "Journal of Vision, (17), 10, _pp. 504--504_"
