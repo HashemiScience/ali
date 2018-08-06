@@ -9,7 +9,7 @@ title = "Perceptual Learning"
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "brainbranch.jpg"
+image_preview = "brainbranch.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "brainbranch.jpg"
+image = "brainbranch.png"
 caption = ""
 
 +++
