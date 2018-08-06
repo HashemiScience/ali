@@ -1,3 +1,5 @@
+# this function needs to be updated to export better... including links to doi / posters?
+
 bibtex_2academic <- function(bibfile,
                              outfold,
                              abstract = FALSE, 
