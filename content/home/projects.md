@@ -35,16 +35,16 @@ filter_default = 0
 
 [[filter]]
   name = "Face Perception"
-  tag = "Face Perception"
+  tag = "face-perception"
 
 [[filter]]
   name = "Perceptual Learning"
-  tag = "Perceptual Learning"
+  tag = "perceptual-learning"
 
 [[filter]]
-  name = "Memory"
-  tag = "Memory"
-
+  name = "Population EEG"
+  tag = "population-eeg"
+  
 [[filter]]
   name = "Other"
   tag = "Other"

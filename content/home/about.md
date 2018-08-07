@@ -15,17 +15,17 @@ weight = 5
     "face perception",
     "attention",
     "memory",
-    "EEG/ERP"
+    "aging"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Experimental Psychology"
+  course = "PhD Candidate (Experimental Psychology)"
   institution = "McMaster University"
-  year = 2018
+  year = Expected completion in September 2018
 
 [[education.courses]]
-  course = "Honorus BSc in Biology and Psychology"
+  course = "Honours BSc (Biology and Psychology)"
   institution = "McMaster University"
   year = 2012
 
@@ -33,4 +33,4 @@ weight = 5
 
 # Biography
 
-I am a PhD Candidate in the Vision and Cognitive Neuroscience Lab at McMaster University. My general interest is in vision science, with particular focus on perceptual learning, face perception, and psychophysics.
+I am a PhD Candidate in the Vision and Cognitive Neuroscience Lab at McMaster University, supervised by Drs. Allison Sekuler and Patrick Bennett. My general interest is in vision science, with particular focus on using psychophysical techniques to study perceptual learning and face perception. 
