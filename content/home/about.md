@@ -22,7 +22,7 @@ weight = 5
 [[education.courses]]
   course = "PhD Candidate (Experimental Psychology)"
   institution = "McMaster University"
-  year = Expected completion in September 2018
+  year = 2018
 
 [[education.courses]]
   course = "Honours BSc (Biology and Psychology)"
