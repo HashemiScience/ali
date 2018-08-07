@@ -1,5 +1,5 @@
 +++
-# Recent Publications widget.
+# Conference Presentations widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "conference_presentations"
 active = true

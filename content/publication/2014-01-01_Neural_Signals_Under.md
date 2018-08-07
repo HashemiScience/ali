@@ -2,7 +2,7 @@
 title = "Neural Signals Underlying the Convexity Context Effect"
 date = "2014-01-01"
 authors = ["Jordan W Lass", "Ali Hashemi", "Patrick J Bennett", "Mary Peterson", "Allison B Sekuler"]
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "Journal of Vision, (14), 10, _pp. 255_"
 publication_short = "Journal of Vision, (14), 10, _pp. 255_"
 abstract = ""
