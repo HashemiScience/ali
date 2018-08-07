@@ -2,7 +2,7 @@
 title = "Extensive training of orientation filtered textures increases generalization of learning"
 date = "2017-01-01"
 authors = ["Ali Hashemi", "Allison B Sekuler", "Patrick J Bennett"]
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "Journal of Vision, (17), 10, _pp. 509--509_"
 publication_short = "Journal of Vision, (17), 10, _pp. 509--509_"
 abstract = ""

@@ -2,7 +2,7 @@
 title = "The time-course of rapid stimulus-specific perceptual learning"
 date = "2013-01-01"
 authors = ["Ali Hashemi", "Jordan W Lass", "David Truong", "Allison B Sekuler", "Patrick J Bennett"]
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "Journal of Vision, (13), 9, _pp. 1090_"
 publication_short = "Journal of Vision, (13), 9, _pp. 1090_"
 abstract = ""

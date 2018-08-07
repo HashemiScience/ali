@@ -2,7 +2,7 @@
 title = "Effects of aging on the horizontal selectivity of behavioural and ERP measures of face identification"
 date = "2015-01-01"
 authors = ["Rabea Parpia", "Ali Hashemi", "Patrick J Bennett", "Allison B Sekuler"]
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "Journal of Vision, (15), 12, _pp. 681_"
 publication_short = "Journal of Vision, (15), 12, _pp. 681_"
 abstract = ""

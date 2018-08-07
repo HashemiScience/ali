@@ -2,7 +2,7 @@
 title = "Aging alters neural processing underlying figure-ground organization"
 date = "2017-01-01"
 authors = ["Allison B Sekuler", "Jordan W Lass", "Ali Hashemi", "Patrick J Bennett", "Mary Peterson"]
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "Journal of Vision, (17), 10, _pp. 305--305_"
 publication_short = "Journal of Vision, (17), 10, _pp. 305--305_"
 abstract = ""

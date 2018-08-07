@@ -2,7 +2,7 @@
 title = "Effects of size, fixation location, and inversion on face identification"
 date = "2015-01-01"
 authors = ["Allison B Sekuler", "Matthew V Pachai", "Ali Hashemi", "Patrick J Bennett"]
-publication_types = ["2"]
+publication_types = ["1"]
 publication = "Journal of Vision, (15), 12, _pp. 694_"
 publication_short = "Journal of Vision, (15), 12, _pp. 694_"
 abstract = ""
