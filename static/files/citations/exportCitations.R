@@ -110,10 +110,10 @@ bibtex_2academic <- function(bibfile,
       # editing the created md
       
       write("image_preview = \"\"", fileConn, append = T)
-      write("selected = false", fileConn, append = T)
+      #write("selected = false", fileConn, append = T)
       
-      #ifelse(!is.na(x[["selected"]]), selected <- x[["selected"]], selected<-"false")
-      #write(paste0("selected = \"", selected,"\""), fileConn, append = T)
+      ifelse(!is.na(x[["selected"]]), selected <- x[["selected"]], selected<-"false")
+      write(paste0("selected = ", selected), fileConn, append = T)
       
       write("projects = []", fileConn, append = T)
       write("tags = []", fileConn, append = T)
