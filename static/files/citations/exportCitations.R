@@ -73,18 +73,30 @@ bibtex_2academic <- function(bibfile,
       
       # Publication details: journal, volume, issue, page numbers and doi link
       publication <- x[["journal"]]
-      if (!is.na(x[["volume"]])) publication <- paste0(publication, 
-                                                       ", (", x[["volume"]], ")")
-      if (!is.na(x[["number"]])) publication <- paste0(publication,
-                                                       ", ", x[["number"]])
-      if (!is.na(x[["pages"]])) publication <- paste0(publication,
-                                                      ", _pp. ", x[["pages"]], "_")
-      if (!is.na(x[["doi"]])) publication <- paste0(publication,
-                                                    ", ", paste0("https://doi.org/", 
-                                                                 x[["doi"]]))
+      #if (!is.na(x[["volume"]])) publication <- paste0(publication, 
+      #                                                 ", (", x[["volume"]], ")")
+      #if (!is.na(x[["number"]])) publication <- paste0(publication,
+      #                                                 ", ", x[["number"]])
+      #if (!is.na(x[["pages"]])) publication <- paste0(publication,
+      #                                                ", _pp. ", x[["pages"]], "_")
+      #if (!is.na(x[["doi"]])) publication <- paste0(publication,
+      #                                              ", ", paste0("https://doi.org/", 
+      #                                                           x[["doi"]]))
       
       write(paste0("publication = \"", publication,"\""), fileConn, append = T)
       write(paste0("publication_short = \"", publication,"\""),fileConn, append = T)
+      
+      if (!is.na(x[["volume"]])) {volume <- x[["volume"]];
+      write(paste0("volume = \"", volume,"\""), fileConn, append = T)}
+      
+      if (!is.na(x[["number"]])) {number <- x[["number"]];
+      write(paste0("number = \"", number,"\""), fileConn, append = T)}
+      
+      if (!is.na(x[["pages"]])) {pages <- x[["pages"]];
+      write(paste0("pages = \"", pages,"\""), fileConn, append = T)}
+      
+      if (!is.na(x[["doi"]])) {doi <- x[["doi"]];
+      write(paste0("doi = \"", doi,"\""), fileConn, append = T)}
       
       # Abstract and optional shortened version.
       if (abstract) {
@@ -98,7 +110,11 @@ bibtex_2academic <- function(bibfile,
       # editing the created md
       
       write("image_preview = \"\"", fileConn, append = T)
-      write("selected = false", fileConn, append = T)
+      #write("selected = false", fileConn, append = T)
+      
+      ifelse(!is.na(x[["selected"]]), selected <- x[["selected"]], selected<-"false")
+      write(paste0("selected = \"", selected,"\""), fileConn, append = T)
+      
       write("projects = []", fileConn, append = T)
       write("tags = []", fileConn, append = T)
       #links
