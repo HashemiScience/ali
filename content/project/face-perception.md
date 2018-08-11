@@ -9,7 +9,7 @@ title = "Face perception"
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "facescomposite.jpg"
+#image_preview = "facescomposite.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,9 +22,9 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "facescomposite.jpg"
-caption = ""
+#[header]
+#image = "facescomposite.jpg"
+#caption = ""
 
 +++
 

@@ -9,7 +9,7 @@ title = "Population EEG"
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "brainbranch.png"
+#image_preview = "brainbranch.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,9 +22,9 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "brainbranch.png"
-caption = ""
+#[header]
+#image = "brainbranch.png"
+#caption = ""
 
 +++
 
