@@ -3,7 +3,7 @@ title: "Hello R Markdown"
 author: "Ali Hashemi"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
-tags: ["R Markdown", "blogdown", "hugo", "github", "netlify""]
+tags: ["R Markdown", "blogdown", "hugo", "github", "netlify"]
 ---
 
 ```{r setup, include=FALSE}

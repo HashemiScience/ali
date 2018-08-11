@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Face-perception on ALI HASHEMI</title>
+    <link>/tags/face-perception/</link>
+    <description>Recent content in Face-perception on ALI HASHEMI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 06 Aug 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/face-perception/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Face perception</title>
+      <link>/project/face-perception/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/face-perception/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+    </item>
+    
+  </channel>
+</rss>

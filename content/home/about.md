@@ -31,6 +31,14 @@ weight = 5
 
 +++
 
+---
+title: ""
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+---
+
 # Biography
 
 I am a PhD Candidate in the Vision and Cognitive Neuroscience Lab at McMaster University, supervised by Drs. Allison Sekuler and Patrick Bennett. My general interest is in vision science, with particular focus on using psychophysical techniques to study perceptual learning and face perception. 
