@@ -1,11 +1,4 @@
 +++
-
-title: ""
-output: 
-  html_document:
-    includes:
-       in_header: GA_Script.html
-
 # About/Biography widget.
 widget = "about"
 active = true

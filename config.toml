@@ -1,3 +1,10 @@
+---
+title: ""
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+---
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
