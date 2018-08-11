@@ -1,4 +1,11 @@
 +++
+
+title: ""
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+
 # About/Biography widget.
 widget = "about"
 active = true
@@ -30,14 +37,6 @@ weight = 5
   year = 2012
 
 +++
-
----
-title: ""
-output: 
-  html_document:
-    includes:
-       in_header: GA_Script.html
----
 
 # Biography
 
