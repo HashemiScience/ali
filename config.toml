@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "http://www.ahashemi.com/"
 
 # Title of your site
 title = "ALI HASHEMI"
@@ -72,13 +72,13 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bitmoji.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ali.hashemi@gmail.com"
+  email = "hashea@mcmaster.ca"
   address = "Psychology Building, 1280 Main Street West, Hamilton, Ontario, Canada"
-  #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  #phone = "888 888 88 88"
+  office_hours = "By appointment"
+  phone = "905-525-9140 x24489"
   #skype = "echo123"
   #telegram = ""
-  #twitter = "@hashemiali"
+  twitter = "@hashemiali"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
