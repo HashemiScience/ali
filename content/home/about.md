@@ -20,7 +20,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate (Experimental Psychology)"
+  course = "PhD (Psychology)"
   institution = "McMaster University"
   year = 2018
 
@@ -33,4 +33,4 @@ weight = 5
 
 # Biography
 
-I am a PhD Candidate in the Vision and Cognitive Neuroscience Lab at McMaster University, supervised by Drs. Allison Sekuler and Patrick Bennett. My general interest is in vision science, with particular focus on using psychophysical techniques to study perceptual learning and face perception. 
+I completed my PhD in the Vision and Cognitive Neuroscience Lab at McMaster University, under the supervision Allison Sekuler and Patrick Bennett. My general interest is in vision science, with particular focus on using psychophysical techniques to study perceptual learning and face perception.
