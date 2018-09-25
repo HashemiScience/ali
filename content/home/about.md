@@ -33,4 +33,8 @@ weight = 5
 
 # Biography
 
-I completed my PhD in the Vision and Cognitive Neuroscience Lab at McMaster University, under the supervision Allison Sekuler and Patrick Bennett. My general interest is in vision science, with particular focus on using psychophysical techniques to study perceptual learning and face perception.
+I am a scientist with interests in perceptual learning, face perception, attention, and memory. I use psychophysics, electroencephalography (EEG), and pupillometry to collect data. I am proficient in MATLAB (PsychToolbox, EEGLAB) for data collection and processing, and in R/RStudio for data analysis and visualization.
+
+My PhD in the Vision and Cognitive Neuroscience Lab at McMaster University was focussed on the neural mechanisms of face perception and perceptual learning. The thesis in its entirety can be accessed here, and in these published papers and conference posters.
+
+I am currently a post-doctoral fellow at the Rotman Research Institute at Baycrest Health Sciences. My current focus is on investigating the population-level dynamics of adult EEG throughout the lifespan using a massive, novel dataset collected using the Muse. I am also working to dissociate age-related perceptual and cognitive deficits in healthy and clinical populations of older adults.
