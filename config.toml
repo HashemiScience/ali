@@ -63,16 +63,16 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Ali Hashemi"
-  role = "PhD Candidate"
+  name = "Ali Hashemi, PhD"
+  role = "Post-Doctoral Fellow"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "McMaster University", url = "" } ]
+  organizations = [ { name = "Rotman Research Institute", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bitmoji.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ali.hashemi@gmail.com"
+  email = "ahashemi@research.baycrest.org"
   address = "Baycrest Health Sciences, 3560 Bathurst St, Toronto, Canada"
   office_hours = "By appointment"
   #phone = "905-525-9140 x24489"
@@ -108,8 +108,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 3
   map_api_key = "pk.eyJ1IjoiaGFzaGVtaWFsaSIsImEiOiJjamtleHc1ZXc0aWVqM2xtbGl2dzlpcGo4In0.nlg66W3JZDeb2hK4NFf2aw"
-  latitude = "43.729852"
-  longitude = "-79.435542"
+  latitude = "43.729852" # Baycrest
+  longitude = "-79.435542" # Baycrest
 #  latitude = "43.259578" #mcmaster 
 #  longitude = "-79.919473" #mcmaster
   zoom = 15
@@ -236,7 +236,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:ali.hashemi@gmail.com"
+    link = "mailto:ahashemi@research.baycrest.org"
 
   [[params.social]]
     icon = "twitter"
