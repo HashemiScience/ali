@@ -32,5 +32,8 @@ weight = 5
 +++
 
 # Biography
+I am a post-doctoral fellow at the Rotman Research Institute, Baycrest Health Sciences. My current research is focussed on understanding how basic visual and cognitive processes are affected in healthy and non-healthy older adults, relative to healthy younger adults. I am well versed in programming psychophysical experiments (MATLAB, PsychToolbox), collecting EEG (EGI, BioSemi) and pupillometry (Eyelink), and visualizing and analyzing data (R).
 
-I completed my PhD in the Vision and Cognitive Neuroscience Lab at McMaster University, under the supervision Allison Sekuler and Patrick Bennett. My general interest is in vision science, with particular focus on using psychophysical techniques to study perceptual learning and face perception.
+I completed my PhD in the Vision and Cognitive Neuroscience Lab (Allison Sekuler and Patrick Bennett) at McMaster University. My thesis research focused on understanding the neural mechanisms of face perception, and then using these principles to develop a novel stimulus class to study the generalizability of perceptual learning. Throughout my PhD studies, I was lucky to collaborate with plenty of researchers to study 1) population-level EEG dynamics, 2) the effect of perceptual degradation on memory, the effects of ageing on 2 3) figure-ground perception and 4) contour integration, and 5) the continuously probing perceptual rivalry.
+
+THroughout my academic career, I have mentored/supervised dozens of udergradaute thesis or independent project students. I have also twice taught the Inferential Statistics course for Level III Psychology, Neuroscience & Behaviour students at McMaster University. In my second term as instructor, I introduced R-based labs/tutorials to which stuents were very receptive to. I always attemptt o incoporate best-practices in data visualization and analysis, and continue to develop student resources with this in mind.
