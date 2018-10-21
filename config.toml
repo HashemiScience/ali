@@ -72,10 +72,10 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bitmoji.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "hashea@mcmaster.ca"
-  address = "Psychology Building, 1280 Main Street West, Hamilton, Ontario, Canada"
+  email = "ali.hashemi@gmail.com"
+  address = "Baycrest Health Sciences, 3560 Bathurst St, Toronto, Canada"
   office_hours = "By appointment"
-  phone = "905-525-9140 x24489"
+  #phone = "905-525-9140 x24489"
   #skype = "echo123"
   #telegram = ""
   twitter = "@hashemiali"
@@ -108,8 +108,10 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 3
   map_api_key = "pk.eyJ1IjoiaGFzaGVtaWFsaSIsImEiOiJjamtleHc1ZXc0aWVqM2xtbGl2dzlpcGo4In0.nlg66W3JZDeb2hK4NFf2aw"
-  latitude = "43.259578"
-  longitude = "-79.919473"
+  latitude = "43.729852"
+  longitude = "-79.435542"
+#  latitude = "43.259578" #mcmaster 
+#  longitude = "-79.919473" #mcmaster
   zoom = 15
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
@@ -234,7 +236,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:hashea@mcmaster.ca"
+    link = "mailto:ali.hashemi@gmail.com"
 
   [[params.social]]
     icon = "twitter"
