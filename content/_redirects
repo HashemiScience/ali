@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://hashemiscience.netlify.com/* http://www.ahashemi.com/:splat 301!
+https://hashemiscience.netlify.com/* https://www.ahashemi.com/:splat 301!
