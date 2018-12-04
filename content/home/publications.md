@@ -1,6 +1,6 @@
 +++
 # Selected Publications widget.
-# This widget displays publications from `content/publication/` which have
+# This widget displays publications from `content/publications/` which have
 # `selected = true` in their `+++` front matter.
 widget = "publications"
 active = true
