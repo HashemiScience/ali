@@ -1,17 +1,19 @@
 +++
-[xxx]
-# Selected Publications widget.
-# This widget displays publications from `content/conferences/` which have
-# `selected = true` in their `+++` front matter.
+[conferences]
+# Recent Publications widget.
+# This widget displays recent publications from `content/conferences/`.
 widget = "conferences"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Conferences"
+title = "Conference Presentations"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 20
+
+# Number of publications to list.
+count = 10
 
 # List format.
 #   0 = Simple
@@ -30,4 +32,8 @@ list_format = 2
 #  5: Book
 #  6: Book chapter
 publication_type = "-1"
+
+# Exclude publications that are shown in the Selected Publications widget?
+exclude_selected = true
 +++
+
