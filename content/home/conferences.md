@@ -1,4 +1,5 @@
 +++
+[xxx]
 # Selected Publications widget.
 # This widget displays publications from `content/conferences/` which have
 # `selected = true` in their `+++` front matter.
