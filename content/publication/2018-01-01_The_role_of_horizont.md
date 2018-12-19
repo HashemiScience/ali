@@ -1,10 +1,10 @@
 +++
 title = "The role of horizontal facial structure on the N170 and N250"
 date = "2018-01-01"
-authors = ["Ali Hashemi", "Matthew V Pachai", "Patrick J Bennett", "Allison B Sekuler"]
+authors = ["**Ali Hashemi**", "Matthew V Pachai", "Patrick J Bennett", "Allison B Sekuler"]
 publication_types = ["2"]
-publication = "Vision research, (SI), Face perception"
-publication_short = "Vision research, (SI), Face perception"
+publication = "Vision research, (*in press*)"
+publication_short = "Vision research, (*in press*)"
 abstract = ""
 abstract_short = ""
 image_preview = ""

@@ -1,7 +1,7 @@
 +++
 title = "Characterizing population EEG dynamics throughout adulthood"
 date = "2016-01-01"
-authors = ["Ali Hashemi", "Lou J. Pino", "Graeme Moffat", "Karen J. Mathewson", "Chris Aimone", "Patrick J. Bennett", "Louis A. Schmidt", "Allison B. Sekuler"]
+authors = ["**Ali Hashemi**", "Lou J Pino", "Graeme Moffat", "Karen J Mathewson", "Chris Aimone", "Patrick J Bennett", "Louis A Schmidt", "Allison B Sekuler"]
 publication_types = ["2"]
 publication = "eNeuro, (3), 6"
 publication_short = "eNeuro, (3), 6"
