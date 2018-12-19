@@ -1,5 +1,5 @@
 +++
-title = "EEG Correlates of Contour Integration in Younger and Older Adults"
+title = "EEG correlates of contour integration in younger and older adults"
 date = "2018-01-01"
 authors = ["Allison B Sekuler", "Eugenie Roudaia", "**Ali Hashemi**", "Jessica N Cali", "Patrick J Bennett"]
 publication_types = ["2"]
