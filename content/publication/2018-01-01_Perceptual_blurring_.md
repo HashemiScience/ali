@@ -20,6 +20,9 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+[[url_custom]]
+name="Abstract"
+url="https://doi.org/doi:10.1167/18.10.834"
 math = true
 highlight = true
 [header]

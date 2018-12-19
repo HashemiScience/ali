@@ -1,7 +1,7 @@
 +++
 title = "The N170 is driven by the presence of horizontal facial structure"
 date = "2014-01-01"
-authors = ["Ali Hashemi", "Matthew V Pachai", "Patrick J Bennett", "Allison B Sekuler"]
+authors = ["**Ali Hashemi**", "Matthew V Pachai", "Patrick J Bennett", "Allison B Sekuler"]
 publication_types = ["2"]
 publication = "Journal of Vision, (14), 10, _pp. 130_"
 publication_short = "Journal of Vision, (14), 10, _pp. 130_"
@@ -20,6 +20,9 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+[[url_custom]]
+name="Abstract"
+url="https://doi.org/doi:10.1167/14.10.130"
 math = true
 highlight = true
 [header]

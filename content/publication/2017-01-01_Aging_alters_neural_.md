@@ -1,7 +1,7 @@
 +++
 title = "Aging alters neural processing underlying figure-ground organization"
 date = "2017-01-01"
-authors = ["Allison B Sekuler", "Jordan W Lass", "Ali Hashemi", "Patrick J Bennett", "Mary Peterson"]
+authors = ["Allison B Sekuler", "Jordan W Lass", "**Ali Hashemi**", "Patrick J Bennett", "Mary Peterson"]
 publication_types = ["2"]
 publication = "Journal of Vision, (17), 10, _pp. 305--305_"
 publication_short = "Journal of Vision, (17), 10, _pp. 305--305_"
@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://doi.org/doi:10.1167/17.10.305"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -20,6 +20,9 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+[[url_custom]]
+name="Abstract"
+url="https://doi.org/doi:10.1167/17.10.305"
 math = true
 highlight = true
 [header]
