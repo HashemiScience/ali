@@ -1,7 +1,7 @@
 +++
 title = "EEG Correlates of Contour Integration in Younger and Older Adults"
 date = "2018-01-01"
-authors = ["Allison B Sekuler", "Eugenie Roudaia", "*Ali Hashemi*", "Jessica N Cali", "Patrick J Bennett"]
+authors = ["Allison B Sekuler", "Eugenie Roudaia", "**Ali Hashemi**", "Jessica N Cali", "Patrick J Bennett"]
 publication_types = ["2"]
 publication = "Journal of Vision, (18), _pp. 798--798_"
 publication_short = "Journal of Vision, (18), _pp. 798--798_"

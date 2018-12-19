@@ -1,7 +1,7 @@
 +++
-title = "Perceptual blurring and recognition memory: {A} differential memory effect in pupil responses"
+title = "Perceptual blurring and recognition memory: A differential memory effect in pupil responses"
 date = "2018-01-01"
-authors = ["Hanae Davis", "Ali Hashemi", "Bruce Milliken", "Patrick J Bennett"]
+authors = ["Hanae Davis", "**Ali Hashemi**", "Bruce Milliken", "Patrick J Bennett"]
 publication_types = ["2"]
 publication = "Journal of Vision, (18), _pp. 834--834_"
 publication_short = "Journal of Vision, (18), _pp. 834--834_"

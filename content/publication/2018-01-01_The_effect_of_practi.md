@@ -1,7 +1,7 @@
 +++
-title = "The effect of practice with inverted faces on behavioural and {ERP} horizontal bias."
+title = "The effect of practice with inverted faces on behavioural and ERP horizontal bias."
 date = "2018-01-01"
-authors = ["Ali Hashemi", "Matthew V Pachai", "Patrick J Bennett", "Allison B Sekuler"]
+authors = ["**Ali Hashemi**", "Matthew V Pachai", "Patrick J Bennett", "Allison B Sekuler"]
 publication_types = ["2"]
 publication = "Journal of Vision, (18), _pp. 558--558_"
 publication_short = "Journal of Vision, (18), _pp. 558--558_"
@@ -18,7 +18,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "../posters_talks/Hashemi_VSS_2018_small.pdf"
 url_source = ""
 math = true
 highlight = true
