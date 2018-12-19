@@ -1,6 +1,6 @@
 +++
 # Recent Publications widget.
-# This widget displays recent publications from `content/conferences/`.
+# This widget displays recent publications from `content/conference/`.
 widget = "conferences"
 active = true
 date = 2016-04-20T00:00:00
@@ -33,6 +33,6 @@ list_format = 2
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = true
+exclude_selected = false
 +++
 
