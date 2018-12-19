@@ -1,4 +1,5 @@
 +++
+[conferences]
 # Recent Publications widget.
 # This widget displays recent publications from `content/conference/`.
 widget = "conferences"
