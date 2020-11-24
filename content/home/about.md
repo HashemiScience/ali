@@ -10,11 +10,11 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "teaching best practices",
     "vision science",
     "perceptual learning",
     "face perception",
     "attention",
-    "memory",
     "aging"
   ]
 

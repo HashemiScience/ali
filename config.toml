@@ -64,16 +64,16 @@ enableGitInfo = false
 
   # Your details.
   name = "Ali Hashemi, PhD"
-  role = "Post-Doctoral Fellow"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Rotman Research Institute", url = "" } ]
+  organizations = [ { name = "McMaster University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "bitmoji.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ahashemi@research.baycrest.org"
-  address = "Baycrest Health Sciences, 3560 Bathurst St, Toronto, Canada"
+  email = "alihashemi@mcmaster.ca"
+  address = "McMaster University, Hamilton, Canada"
   office_hours = "By appointment"
   #phone = "905-525-9140 x24489"
   #skype = "echo123"
@@ -106,7 +106,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 3
+  map = 0
   map_api_key = "pk.eyJ1IjoiaGFzaGVtaWFsaSIsImEiOiJjamtleHc1ZXc0aWVqM2xtbGl2dzlpcGo4In0.nlg66W3JZDeb2hK4NFf2aw"
   latitude = "43.729852" # Baycrest
   longitude = "-79.435542" # Baycrest
