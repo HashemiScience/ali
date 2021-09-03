@@ -14,7 +14,8 @@ weight = 5
     "perceptual learning",
     "face perception",
     "attention",
-    "aging"
+    "aging",
+    "pedagogy"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -33,8 +34,6 @@ weight = 5
 # Biography
 I am an Assistant Professor (CLA) at McMaster University, teaching various courses in the Department of Psychology, Neuroscience & Behaviour. Previously, I was a post-doctoral fellow at the Rotman Research Institute at Baycrest Health Sciences.
 
-I spend most of my time teaching undergraduates about topics in psychology such as Sensory Processes, Attitudes & Persuasion, Statistics & Research Methods, and History of Psychology. If I'm not teaching undergrads, I'm teaching my pandemic-born baby boy how to be!
+I spend most of my time teaching undergraduates about statistics and research methods, as well as a variety of other courses focused on sensation & perception, attitudes & attitude change, and the history of psychology. I am a firm believer of teaching with both passion and compassion, and am always looking for ways to improve the inclusivity and accessibility of my teaching. If you're a current student trying to learn more about me and have some tips on how I can improve your learning experience, shoot me an email or visit one of my office hours! I'm always listening.
 
-Although most of my time is spent teaching, I am a trained experimental psychologist with broad interests in the field of vision sciences and learning. I'm specifically interested in understanding how the visual system learns a specific task, and then under what conditions does that learning generalize to other tasks or contexts.
-
-Though my role is teaching-focused, the shift to doing online studies due to the pandemic has opened up many opportunities to engage in research related not just to vision sciences, but also to pedagogical practices in the virtual learning environment. I'm also a firm believer in teaching with compassion, and am always looking for ways to create a more inclusive space for students and colleagues!
+Although most of my time is spent teaching, I am a trained experimental psychologist with broad interests in the field of vision sciences and learning. I'm specifically interested in uncovering situations where the visual system learns to complete a given task but is then challenged to transfer the learned skill to novel tasks. As it turns out, this is a difficult problem that we don't yet fully understand!

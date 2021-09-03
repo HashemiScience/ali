@@ -15,20 +15,15 @@ weight = 60
 
 +++
 
-Sessional teaching instructor at McMaster University:
+Courses taught:
 
-- PNB 3XE3: Inferential Statistics (2017, 2018)
+- PNB 2XE3, Descriptive Statistics & Research Methods
+- PNB 3XE3, Inferential Statistics & Research Methods
+- PNB 3HP3, History of Psychology
+- PNB 3EE3, Perception Lab
+- Psych 2E03, Sensory Processes
 
-Teaching assistant for graduate students at McMaster University:
+Teaching Grants:
 
-- PSYCH 710: Statistics for Experimental Psychology (2014, 2015, 2016)
-
-Teaching assistant for undergraduate students at McMaster University:
-
-- PSYCH 2E03: Sensation and Perception (2012)
-- PSYCH 2NF3: Basic & Clinical Neuroscience (2013)
-- PNB 3HP3: History of Psychology (2013)
-- PNB 3EE3: Perception Laboratory (2014)
-- PNB 3V03: Human Memory Laboratory (2015)
-- PNB 2XE3: Descriptive Statistics (2016)
-- PNB 3MM3: Cognitive Neuroscience Laboratory (2017)
+- IDEAS Grant to aide in increasing EDI in the curriculum, 2020-2021
+- OER Creation Grant to aide in creating an OER focused on under-represented individuals in the history of psychology, 2021-2022
